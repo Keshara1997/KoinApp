@@ -1,6 +1,11 @@
 {
   "name": "koin-app",
   "version": "1.0.0",
+  "author": "Kavinda Keshara <kavindakeshara97@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Keshara1997/KoinApp.git"
+  },
   "main": "index.ts",
   "dependencies": {
     "@expo/vector-icons": "^15.0.2",
