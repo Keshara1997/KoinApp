@@ -242,7 +242,7 @@ All implementations were verified through manual testing, cross-platform validat
 
 A demonstration showing receipt upload/capture, OCR extraction, live price recalculation, item deletion/addition, input validation, and saving to Recent Activity:
 
-**Demo Video:** _Add your Google Drive demo URL here (e.g. `https://drive.google.com/file/d/.../view`)._
+**Demo Video:** [https://drive.google.com/file/d/1bf2CGCyCqzVmUDVPuznAe7mD5_J0UzjI/view?usp=sharing](https://drive.google.com/file/d/1bf2CGCyCqzVmUDVPuznAe7mD5_J0UzjI/view?usp=sharing)
 
 ## Application Preview
 
